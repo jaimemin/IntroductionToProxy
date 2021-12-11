@@ -31,3 +31,5 @@
 From 스프링 핵심 원리 - 고급편 (김영한 강사님)
 ---
 프록시 패턴과 데코레이터 패턴 정리: https://jaimemin.tistory.com/2016
+
+JDK 동적 프록시와 CGLIB 정리: https://jaimemin.tistory.com/2025
