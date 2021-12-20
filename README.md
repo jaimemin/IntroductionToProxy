@@ -35,3 +35,5 @@ From 스프링 핵심 원리 - 고급편 (김영한 강사님)
 JDK 동적 프록시와 CGLIB 정리: https://jaimemin.tistory.com/2025
 
 ProxyFactory 정리: https://jaimemin.tistory.com/2026
+
+BeanPostProcessor 정리: https://jaimemin.tistory.com/2028
