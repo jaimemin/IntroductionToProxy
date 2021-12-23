@@ -37,3 +37,5 @@ JDK 동적 프록시와 CGLIB 정리: https://jaimemin.tistory.com/2025
 ProxyFactory 정리: https://jaimemin.tistory.com/2026
 
 BeanPostProcessor 정리: https://jaimemin.tistory.com/2028
+
+@Aspect 정리: https://jaimemin.tistory.com/2028
